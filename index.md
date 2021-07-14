@@ -19,6 +19,10 @@ Excellent understanding of infrastructure, from Windows, Unix, Linux servers bot
 ## EXPERIENCE
 ### NAB BANKING – SENIOR PROJECT MANAGER
 #### February 2019 – March 2020
+
+**Project: Infrastructure Cloud Migration**
+-	Completed the analysis phase of the project to determine which types of infrastructure and applications are eligible for cloud migration.
+
 **Project: Insource Linux/Windows servers from Vendor into NAB UK.**
 Insourcing is designed to help NAB build internal technical capability, knowledge and skills, giving greater visibility and control of their infrastructure and services.
 Achievement: 
@@ -32,8 +36,7 @@ Achievement:
 -	The AD team within NAB are now managing the AD environment and ensuring it is more secured.
 -	An improvement of service to the internal tech teams resulting in faster delivery of projects.
 
-**Project: Infrastructure Cloud Migration**
--	Completed the analysis of the current bank’s infrastructure and the applications running on it to determine which of these applications and infrastructure can be migrated to the cloud.
+
 
 ### ANZ BANKING CORPORATION – SENIOR PROJECT MANAGER ###
 #### August 2008 – November 2018 ####
