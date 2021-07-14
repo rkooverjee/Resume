@@ -63,36 +63,17 @@ This implementation involved working with around 40 different application owners
 -	Manage stakeholders, schedule, risks and budgets
 -	Mentor junior project managers
 
+### EDUCATION ###
+- MASTER OF BUSINESS ADMINISTRATION – UNIVERSITY OF SOUTHERN QUEENSLAND
+- GRADUATE DIPLOMA IN TECHNOLOGY MANAGEMENT – DEAKIN UNIVERSITY, MELBOURNE
+- BACHELOR OF SCIENCE (COMPUTER SCIENCE) – UNIVERSITY OF KWAZULU-NATAL, DURBAN, SOUTH AFRICA
+
+### PROFESSIONAL DEVELOPMENT ###
+- 2018	November		AWS Cloud Foundation 
+- 2018	January		SCRUM Master Certification
+- 2011	June			Prince 2 Certification
+- 2000	August			Project Management Certification (PMP) – PMI Institute (USA)
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rkooverjee/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
