@@ -69,10 +69,10 @@ This implementation involved working with around 40 different application owners
 - BACHELOR OF SCIENCE (COMPUTER SCIENCE) – UNIVERSITY OF KWAZULU-NATAL, DURBAN, SOUTH AFRICA
 
 ### PROFESSIONAL DEVELOPMENT ###
-- 2018	November		AWS Cloud Foundation 
-- 2018	January		SCRUM Master Certification
-- 2011	June			Prince 2 Certification
-- 2000	August			Project Management Certification (PMP) – PMI Institute (USA)
+- 2018:	_AWS Cloud Foundation_ 
+- 2018:	_SCRUM Master Certification_
+- 2011:	_Prince 2 Certification_
+- 2000: _Project Management Certification (PMP) – PMI Institute (USA)_
 
 
 
