@@ -73,12 +73,12 @@ This implementation involved working with around 40 different application owners
 - BACHELOR OF SCIENCE (COMPUTER SCIENCE) – UNIVERSITY OF KWAZULU-NATAL, DURBAN, SOUTH AFRICA
 
 ### PROFESSIONAL DEVELOPMENT ###
-- 2021: AWS Summit (Australia / New Zealand) 
-- 2021: HTML5 and CSS development course
-- 2018:	AWS Cloud Foundation_ 
-- 2018:	SCRUM Master Certification_
-- 2011:	Prince 2 Certification_
-- 2000: Project Management Certification (PMP) – PMI Institute (USA)_
+- 2021: *AWS Summit (Australia / New Zealand)* 
+- 2021: *HTML5 and CSS development course*
+- 2018:	*AWS Cloud Foundation* 
+- 2018:	*SCRUM Master Certification*
+- 2011:	*Prince 2 Certification*
+- 2000: *Project Management Certification (PMP) – PMI Institute (USA)*
 
 
 
