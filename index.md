@@ -1,7 +1,7 @@
 ## CAREER OVERVIEW
 
-A project management specialist having a successful track record for managing multiple projects with any size budget, working with varied sponsor levels and stakeholder groups and teams from various locations – both nationally and internationally. Adaptable to working with agile principles, waterfall and other project methodologies. Worked in the IT industry in diverse industry sectors including Education, Insurance, Telecommunications, Law Enforcement and Banking. A certified SCRUM master and a PMI and Prince2 certified practitioner. Have an understanding of application migration to the AWS cloud.
-Excellent understanding of infrastructure, from Windows, Unix, Linux servers both physical and virtual to networking, storage and internal cloud implementation.
+A project management professional having a successful track record for managing multiple projects with any size budget, working with varied sponsor levels and stakeholder groups. Managed teams from various locations – both nationally and internationally. Adaptable to working with agile principles, waterfall and other project methodologies. Worked in the IT industry in diverse industry sectors including Education, Insurance, Telecommunications, Law Enforcement and Banking. A certified SCRUM master and a PMI and Prince2 certified practitioner. Have an understanding of application migration to the AWS cloud.
+Excellent understanding of infrastructure, from Windows, Unix, Linux servers both physical and virtual to networking, storage and internal cloud implementation
 
 ## KEY SKILLS
 
@@ -10,33 +10,34 @@ Excellent understanding of infrastructure, from Windows, Unix, Linux servers bot
 -	Effective communication with both internal and external stakeholders 
 -	Vendor relationship management 
 -	Stakeholder management, Risk & Issue Management
--	Transition Management
+-	Data Migration
 -	Insourcing and Cloud Migration
 -	Data Centre Migration
 -	Good understanding of Jira and Confluence
 -	SCRUM master
+-	Web Designer
+
 
 ## EXPERIENCE
 ### NAB BANKING – SENIOR PROJECT MANAGER
 #### February 2019 – March 2020
 
 **Project: Infrastructure Cloud Migration**
--	Completed the analysis phase of the project to determine which types of infrastructure and applications are eligible for cloud migration.
+-	•	Completed the analysis of the bank’s current infrastructure and applications running on it to determine the candidates for cloud migration.
 
 **Project: Insource Linux/Windows servers from Vendor into NAB UK.**
-Insourcing is designed to help NAB build internal technical capability, knowledge and skills, giving greater visibility and control of their infrastructure and services.
-Achievement: 
+Insourcing is designed to help NAB build internal technical capability, knowledge and skills, giving greater visibility and control of their infrastructure and services. This project involved liaising with teams in Melbourne, UK and India.
+
 -	Successfully transferred maintenance and support services from vendor to NAB UK.
 -	Reduced the maintenance/support costs for NAB through the insourcing process
 -	An improvement in the support to internal NAB customers by NAB UK through being flexible and agile.
 
+
 **Project: AD Hardening Project**
-Active Directory is managed by a vendor for NAB. This project was initiated to ensure that the NAB technical team has the latest knowledge to manage AD as well as design a more secure AD once NAB insources the AD services.
-Achievement:
--	The AD team within NAB are now managing the AD environment and ensuring it is more secured.
+Active Directory is managed by a vendor for NAB. This project was initiated to ensure that the NAB technical team has the latest knowledge to manage AD internally. Training sessions were organized for Microsoft to provide the latest techniques in managing AD.  
+
+-	The AD team within NAB are now successfully managing the AD environment and ensuring the latest security principles are applied.
 -	An improvement of service to the internal tech teams resulting in faster delivery of projects.
-
-
 
 ### ANZ BANKING CORPORATION – SENIOR PROJECT MANAGER ###
 #### August 2008 – November 2018 ####
@@ -72,6 +73,8 @@ This implementation involved working with around 40 different application owners
 - BACHELOR OF SCIENCE (COMPUTER SCIENCE) – UNIVERSITY OF KWAZULU-NATAL, DURBAN, SOUTH AFRICA
 
 ### PROFESSIONAL DEVELOPMENT ###
+- 2021: _AWS Summit (Australia / New Zealand) 
+- 2021: _HTML5 and CSS development course
 - 2018:	_AWS Cloud Foundation_ 
 - 2018:	_SCRUM Master Certification_
 - 2011:	_Prince 2 Certification_
