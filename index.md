@@ -28,13 +28,13 @@ Excellent understanding of infrastructure, from Windows, Unix, Linux servers bot
 **Project: AD Hardening Project**
 
 *Worked with Microsoft to*
--	Perform analysis of the existing Active Directory environment and its security vulnerabilities.
--	Develop specific training and deliver to NAB technical team
--	Deliver documentation and guidance on how to improve the management of AD 
-	
+- Perform analysis of the existing Active Directory environment and its security vulnerabilities.
+- Develop specific training and deliver to NAB technical team
+- Deliver documentation and guidance on how to improve the management of AD
+ 	
 **Project: Infrastructure Cloud Migration**  
--	Worked with the business analyst to identify candidates for cloud migration.
--	Worked with the architects to determine a blueprint on the process for cloud migration.
+- Worked with the business analyst to identify candidates for cloud migration.
+- Worked with the architects to determine a blueprint on the process for cloud migration.
 
 ### ANZ BANKING CORPORATION – SENIOR PROJECT MANAGER ###
 #### August 2008 – November 2018 ####
