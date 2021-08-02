@@ -31,9 +31,8 @@ Excellent understanding of infrastructure, from Windows, Unix, Linux servers bot
 -	Perform analysis of the existing Active Directory environment and its security vulnerabilities.
 -	Develop specific training and deliver to NAB technical team
 -	Deliver documentation and guidance on how to improve the management of AD 
--	
+	
 **Project: Infrastructure Cloud Migration**  
-
 -	Worked with the business analyst to identify candidates for cloud migration.
 -	Worked with the architects to determine a blueprint on the process for cloud migration.
 
@@ -47,9 +46,9 @@ Excellent understanding of infrastructure, from Windows, Unix, Linux servers bot
 -	Part of a team of project managers that successfully delivered the Global Cash Payment and Liquidity Management software across 11 Asian countries.
 -	Successfully upgraded the Microsoft Exchange servers in the bank. This involved procurement of 68 windows servers, upgrading the hardware to 10 existing servers, decommissioning 90 servers and migrating 32,842 users. 
 
-
 ### IBM GLOBAL SERVICES – PROJECT MANAGER ###
 #### November 2007 – July 2008 ####
+
 **Responsibilities:**
 -	Transition management
 -	Manage client relationship
