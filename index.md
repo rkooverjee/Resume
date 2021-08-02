@@ -5,67 +5,64 @@ Excellent understanding of infrastructure, from Windows, Unix, Linux servers bot
 
 ## KEY SKILLS
 
--	End-to-end management and delivery of infrastructure and application projects.
--	Working with both on-shore and off-shore teams to deliver outcomes
--	Effective communication with both internal and external stakeholders 
--	Vendor relationship management 
--	Stakeholder management, Risk & Issue Management
+-	End-to-end management and delivery of both application and infrastructure projects.
+-	Ability to work with resources across the globe.
+-	Adaptable to work with the organisation’s project delivery framework.
+-	Ability to work with stakeholders and vendors to deliver outcomes to agreed timeframes.
 -	Data Migration
 -	Insourcing and Cloud Migration
 -	Data Centre Migration
--	Good understanding of Jira and Confluence
+-	Excellent understanding of Jira and Confluence
 -	SCRUM master
 -	Web Designer
+
 
 
 ## EXPERIENCE
 ### NAB BANKING – SENIOR PROJECT MANAGER
 #### February 2019 – March 2020
 
-**Project: Infrastructure Cloud Migration**
--	•	Completed the analysis of the bank’s current infrastructure and applications running on it to determine the candidates for cloud migration.
-
 **Project: Insource Linux/Windows servers from Vendor into NAB UK.**
-Insourcing is designed to help NAB build internal technical capability, knowledge and skills, giving greater visibility and control of their infrastructure and services. This project involved liaising with teams in Melbourne, UK and India.
-
--	Successfully transferred maintenance and support services from vendor to NAB UK.
--	Reduced the maintenance/support costs for NAB through the insourcing process
--	An improvement in the support to internal NAB customers by NAB UK through being flexible and agile.
-
+- Managed stakeholders across Melbourne, UK and India.  Project involved upskilling the UK team, working with vendor to deliver documentation and knowledge of support and ensuring a successful and smooth handover of over 100 Linux and windows servers to NAB UK.
 
 **Project: AD Hardening Project**
-Active Directory is managed by a vendor for NAB. This project was initiated to ensure that the NAB technical team has the latest knowledge to manage AD internally. Training sessions were organized for Microsoft to provide the latest techniques in managing AD.  
 
--	The AD team within NAB are now successfully managing the AD environment and ensuring the latest security principles are applied.
--	An improvement of service to the internal tech teams resulting in faster delivery of projects.
+*Worked with Microsoft to*
+-	Perform analysis of the existing Active Directory environment and its security vulnerabilities.
+-	Develop specific training and deliver to NAB technical team
+-	Deliver documentation and guidance on how to improve the management of AD 
+-	
+**Project: Infrastructure Cloud Migration**  
+
+-	Worked with the business analyst to identify candidates for cloud migration.
+-	Worked with the architects to determine a blueprint on the process for cloud migration.
 
 ### ANZ BANKING CORPORATION – SENIOR PROJECT MANAGER ###
 #### August 2008 – November 2018 ####
 
-**Project: Tallyman Application**
-- Delivered 60 Unix / Solaris / Windows servers on our internal cloud platform for a web based solution integrated to various internal applications within the bank. Environments were built and available for the installation of the application 8 weeks in advance – thus saving the project time and resource costs for these 8 weeks.
-Successfully managed 8 external vendor partners to ensure successful file transfers between these vendors and ANZ as part of this application. This was critical for day one processing.
-Provided guidance and direction to the team regarding the agile way of working - utilising, product backlog, running sprints as well as sprint planning and sprint retrospective.
+-	Successfully delivered a number of software and infrastructure projects.
+-	Managed vendor relationships to customise their software to the bank’s requirements and successfully implement within the bank.
+-	Successfully migrated 2 data centres in different states. This included infrastructure, people, and data migration. 
+-	Successfully established a platform for the global use of mobile devices across the bank. Delivered a series of physical Windows servers ahead of schedule and worked with the vendor to implement the Airwatch 
+-	Part of a team of project managers that successfully delivered the Global Cash Payment and Liquidity Management software across 11 Asian countries.
+-	Successfully upgraded the Microsoft Exchange servers in the bank. This involved procurement of 68 windows servers, upgrading the hardware to 10 existing servers, decommissioning 90 servers and migrating 32,842 users. 
 
-**Projects: Data Centre Migration – Western Australia relocation as well as Melbourne relocation**
-- Successfully migrated the data centre from one suburb to another on a single immovable date week-end. Thus, saving the bank the need to invoke the business continuity plan which would require additional resources to work for a week. Migration of the data centre involved relocating staff, a number of work stations, Bespoke system machines, printers, faxes, as well as the complete communication room (midrange servers and network equipment) and managing 4 different vendors and their deliverables.
-
-**Project: Websphere Message Broker Integration Application**
-- Successfully upgraded the Websphere Message Broker application to the latest version. This application is the middle layer and is used by approximately 70 systems. By imple,emting this new version I saved  the bank licensing costs and streamlining development of new broker messages. The development of new broker messages was reduced from 6 weeks to 2 weeks.
-This implementation involved working with around 40 different application owners to perform integration testing to ensure that there was no outage to their systems and potentially impacting external customers.
 
 ### IBM GLOBAL SERVICES – PROJECT MANAGER ###
 #### November 2007 – July 2008 ####
 **Responsibilities:**
+-	Transition management
 -	Manage client relationship
 -	Oversee successful delivery of services, SLAs, projects, and deliverables
 -	Manage and deliver a programme of work
 -	Manage a group of project managers to deliver the programme of work
 -	Develop and review statements of work
--	Plan the projects using off-shore and on-shore resources
+-	Plan the projects using global resources
 -	Develop Statements of Work responses
 -	Manage stakeholders, schedule, risks and budgets
 -	Mentor junior project managers
+
+**clients included TruEnergy, Heinz Australia – New Zealand, Victoria Police, Telstra** 
 
 ### EDUCATION ###
 - MASTER OF BUSINESS ADMINISTRATION – UNIVERSITY OF SOUTHERN QUEENSLAND
